@@ -9,4 +9,4 @@ webCentric-server-side repo
 
 
 webCentric-All Details repo
-<a href="https://github.com/Avishekdevnath/webCentric-project-details.git">Server Link</a> 
+<a href="https://github.com/Avishekdevnath/webCentric-project-details.git">Details Link</a> 
